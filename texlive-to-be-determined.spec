@@ -3,7 +3,7 @@ Version:	64882
 Release:	2
 Summary:	Highlight text passages that need further work
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/to-be-determined
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/to-be-determined
 License:	mit
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/to-be-determined.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/to-be-determined.doc.r%{version}.tar.xz
